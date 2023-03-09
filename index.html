@@ -60,9 +60,11 @@
             <section class="section" id="code">
                 <h2 class="section-title">Code</h2>
                 <code>
-                    function multiply(a, b){<br>
-                    return a * b<br>
-                    }
+                    function showTime() {
+                        const nowDate = new Date();
+                        const currentTime = nowDate.toLocaleTimeString('ru-Ru');
+                        time.textContent = currentTime;
+                    };
                 </code>
             </section>
             <section class="section" id="projects">
