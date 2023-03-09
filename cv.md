@@ -1,4 +1,4 @@
-# Kiryl Tymanovich
+# Kiryl Tymanov
 ## Contacts
 * Location: Minsk, Belarus
 * Phone: +375 29 162-85-18
